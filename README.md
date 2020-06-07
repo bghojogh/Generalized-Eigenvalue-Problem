@@ -18,3 +18,10 @@ img[alt=https://user-images.githubusercontent.com/66282117/83974662-0686bc00-a8b
 }
 
 <img src="https://user-images.githubusercontent.com/66282117/83974662-0686bc00-a8bd-11ea-88bd-32e84c791371.PNG" width="40%" class="center">
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
