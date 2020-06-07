@@ -17,4 +17,4 @@ img[alt=https://user-images.githubusercontent.com/66282117/83974662-0686bc00-a8b
   background: none;
 }
 
-<img src="https://user-images.githubusercontent.com/66282117/83974662-0686bc00-a8bd-11ea-88bd-32e84c791371.PNG" width="40%">
+<img src="https://user-images.githubusercontent.com/66282117/83974662-0686bc00-a8bd-11ea-88bd-32e84c791371.PNG" width="40%" class="center">
